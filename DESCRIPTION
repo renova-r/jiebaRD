@@ -1,12 +1,13 @@
 Package: jiebaRD
 Type: Package
 Title: Chinese Text Segmentation Data for jiebaR Package
-Description: jiebaR is a package for Chinese text segmentation, keyword extraction
-   and speech tagging. This package provides the data files required by jiebaR.
-Version: 0.1
-Date: 2015-01-03
-Author: Qin Wenfeng
+Description: Provides the data files required by 'jiebaR', a package for Chinese
+   text segmentation, keyword extraction and speech tagging.
+    Compatibility updates by Renova.
+Version: 0.1.9001
+Author: Qin Wenfeng [aut, cre]
 Maintainer: Qin Wenfeng <mail@qinwenfeng.com>
+Authors@R: person(given = "Qin", family = "Wenfeng", role = c("aut", "cre"), email = "mail@qinwenfeng.com")
 License: MIT + file LICENSE
 Suggests: jiebaR
 URL: https://github.com/qinwf/jiebaRD/
